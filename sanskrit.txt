@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn Sanskrit basics including the alphabet, grammar, and history.">
+    <title>All About Sanskrit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #6c757d;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #343a40;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #007bff;
+            color: white;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #007bff;
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>All About Sanskrit</h1>
+    <p>Learn the basics of the ancient language of Sanskrit</p>
+</header>
+
+<nav>
+    <a href="#alphabet">Alphabet</a>
+    <a href="#grammar">Grammar</a>
+    <a href="#history">History</a>
+    <a href="#importance">Cultural Importance</a>
+</nav>
+
+<section id="alphabet">
+    <h2>Sanskrit Alphabet (Devanagari Script)</h2>
+    <p>The Sanskrit language is written in the Devanagari script. Below are the basic vowels and consonants:</p>
+    <ul>
+        <li><strong>Vowels:</strong> अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ</li>
+        <li><strong>Consonants:</strong> क, ख, ग, घ, ङ, च, छ, ज, झ, ञ, ट, ठ, ड, ढ, ण, त, थ, द, ध, न, प, फ, ब, भ, म, य, र, ल, व, श, ष, स, ह</li>
+    </ul>
+</section>
+
+<section id="grammar">
+    <h2>Basic Sanskrit Grammar</h2>
+    <p>Sanskrit grammar is systematic and highly logical. Key aspects include:</p>
+    <ul>
+        <li><strong>Nouns:</strong> Nouns have gender (masculine, feminine, neuter) and are declined based on case and number.</li>
+        <li><strong>Verbs:</strong> Verbs are conjugated according to tense (present, past, future), person (1st, 2nd, 3rd), and voice (active, passive).</li>
+        <li><strong>Sentence Structure:</strong> Sanskrit often follows the Subject-Object-Verb (SOV) structure, but word order can be flexible.</li>
+    </ul>
+</section>
+
+<section id="history">
+    <h2>History of Sanskrit</h2>
+    <p>Sanskrit is one of the world's oldest languages, dating back over 3,500 years. It originated as the liturgical language of Hinduism and became the language of ancient Indian philosophy, literature, and science. Classical Sanskrit developed from the earlier Vedic Sanskrit, which was used in the Rigveda, the oldest known text of India.</p>
+</section>
+
+<section id="importance">
+    <h2>Cultural Importance of Sanskrit</h2>
+    <p>Sanskrit is not only the root of many Indian languages but also a key to understanding ancient Indian culture. Many important works in philosophy, religion, science, and literature, including the Vedas, Upanishads, Mahabharata, and Ramayana, are written in Sanskrit.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Learn Sanskrit - All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
